@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Arpit Garg 👋
 
-<!--
-**ag-arpit-11/ag-arpit-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Currently learning basic programming languages
+- Building my programming fundamentals
+- Exploring Data Structures and Algorithms
+- Interested in software development and technology projects
 
-Here are some ideas to get you started:
+## Current Focus
+- C Progrmming
+- Probem-Solving
+- Git and GitHub
+- Building my first coding project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- LinkedIn : [www.linkedin.com/in/arpit-garg-751487378]
+  
